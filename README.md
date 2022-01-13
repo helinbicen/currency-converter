@@ -1,2 +1,2 @@
 # currencyConverter
-It is a currency converter project using Exchange Rates API, HTML and JavaScript. 
+It is a currency converter project with using Exchange Rates API, HTML and JavaScript. 
